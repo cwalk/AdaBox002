@@ -5,7 +5,7 @@ The latest file is `Piezo-Songs.ino`. This file allows the user to control the B
 
 ## YouTube
 
-YouTube:
+YouTube: https://www.youtube.com/watch?v=HSH3yGTDaHw&feature=youtu.be
 
 ## Pictures
 
