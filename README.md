@@ -9,5 +9,5 @@ YouTube:
 
 ## Pictures
 
-![Diagram](top.jpg?raw=true "Diagram")
-![Diagram](side.jpg?raw=true "Diagram")
+![Top](/top.JPG?raw=true "Top")
+![Side](/side.JPG?raw=true "Side")
